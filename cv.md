@@ -28,6 +28,7 @@ if (true) {
     do something;
 }
 ```
+
 ```
 const SomeFunction = () => 'value';
 ```
@@ -55,7 +56,7 @@ Notable Accomplishments:
 ABC UNIVERSITY, Philadelphia, Pa.
 Bachelor of Science (Major: Computer Science; Graduated Magna Cum Laude), May 2008
 
-8. English\ 
+8. English\
 *London is the capital of Great Britain*
 
 *** 
