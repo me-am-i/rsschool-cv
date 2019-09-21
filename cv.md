@@ -6,20 +6,18 @@
 * 123 Main Street
 * Anytown, PA 12345
 * (123) 456-7890
-* joe.applicant@email.com\
+* [joe.applicant@email.com](joe.applicant@email.com) 
 
-3. Summary\
-Award-winning web developer and instructor with 10+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a top technology firm.
-
+3. Summary  
+Award-winning web developer and instructor with 10+ years’ of well-rounded experience in LAMP development, object-oriented and user-centered design, seeks a position with a top technology firm.  
 Key skills include:
-
 * Proficient in HTML, CSS, Server-Scripting, C/C++, and Oracle
 * Experience with SEO
 * Knowledgeable in Online Advertising
 * Expert in LAMP Web Service Stacks
 * Experience Teaching Web Development
 
-4. Skills:
+4. Skills:  
 Software & Tools: CSS, NetSuite, Access, Oracle • Languages: C/C++, JavaScript, HTML, SQL
 
 5. Code examples 
@@ -33,13 +31,11 @@ if (true) {
 const SomeFunction = () => 'value';
 ```
 
-6. Experience 
+6. Experience
 #### ABC TRAINING, Philadelphia, Pa.
 TECHNICAL INSTRUCTOR/CURRICULUM DEVELOPER (November 2013 – Present)
-Brought on board to provide comprehensive training in ABC programs and tools for the company’s high-profile clients, including ABC Bank and ABC School; wrote company’s web-development manual.
-
+Brought on board to provide comprehensive training in ABC programs and tools for the company’s high-profile clients, including ABC Bank and ABC School; wrote company’s web-development manual.  
 Notable accomplishments:
-
 * Served as Technical Instructor for ABC’s onsite web-development program.
 * Taught web development programming and video editing at State University and Local County Community College.
 
