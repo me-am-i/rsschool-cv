@@ -52,11 +52,11 @@ Notable Accomplishments:
 * Taught students to use Oracle Database, SQL Service, Cold Fusion, and JavaScript.
 * Named “Instructor of the Year” three years in a row; taught approximately 200 students.
 
-7. Education\
+7. Education  
 ABC UNIVERSITY, Philadelphia, Pa.
 Bachelor of Science (Major: Computer Science; Graduated Magna Cum Laude), May 2008
 
-8. English\
+8. English  
 *London is the capital of Great Britain*
 
 *** 
