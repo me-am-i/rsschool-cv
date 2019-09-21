@@ -35,7 +35,7 @@ TECHNICAL INSTRUCTOR/CURRICULUM DEVELOPER (November 2013 – Present)
 Brought on board to provide comprehensive training in ABC programs and tools for the company’s high-profile clients, including ABC Bank and ABC School; wrote company’s web-development manual.  
 Notable accomplishments:
 * Served as Technical Instructor for ABC’s onsite web-development program.
-* Taught web development programming and video editing at State University and Local County Community College.  
+* Taught web development programming and video editing at State University and Local County Community College.
 
 #### SMITH BUSINESS SCHOOL, Philadelphia, Pa.
 TECHNICAL INSTRUCTOR/PROJECT MANAGER (June 2008 – November 2013)
