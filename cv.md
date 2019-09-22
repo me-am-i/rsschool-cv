@@ -29,7 +29,7 @@ if (true) {
 ```
 const SomeFunction = () => 'value';
 ```  
-6. Experience
+6. Experience  
 #### ABC TRAINING, Philadelphia, Pa.
 TECHNICAL INSTRUCTOR/CURRICULUM DEVELOPER (November 2013 – Present)
 Brought on board to provide comprehensive training in ABC programs and tools for the company’s high-profile clients, including ABC Bank and ABC School; wrote company’s web-development manual.  
