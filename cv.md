@@ -35,14 +35,13 @@ TECHNICAL INSTRUCTOR/CURRICULUM DEVELOPER (November 2013 – Present)
 Brought on board to provide comprehensive training in ABC programs and tools for the company’s high-profile clients, including ABC Bank and ABC School; wrote company’s web-development manual.  
 Notable accomplishments:
 * Served as Technical Instructor for ABC’s onsite web-development program.
-* Taught web development programming and video editing at State University and Local County Community College.
-
+* Taught web development programming and video editing at State University and Local County Community College.  
 #### SMITH BUSINESS SCHOOL, Philadelphia, Pa.
 TECHNICAL INSTRUCTOR/PROJECT MANAGER (June 2008 – November 2013)
 Contributed to student mastery of modules including HTML, ASP, Visual Basic, and Access Database.  
 Notable Accomplishments:
 * Taught students to use Oracle Database, SQL Service, Cold Fusion, and JavaScript.
-* Named “Instructor of the Year” three years in a row; taught approximately 200 students.  
+* Named “Instructor of the Year” three years in a row; taught approximately 201 students.  
 7. Education  
 ABC UNIVERSITY, Philadelphia, Pa.
 Bachelor of Science (Major: Computer Science; Graduated Magna Cum Laude), May 2008  
