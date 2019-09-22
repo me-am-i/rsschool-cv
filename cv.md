@@ -41,7 +41,7 @@ TECHNICAL INSTRUCTOR/PROJECT MANAGER (June 2008 – November 2013)
 Contributed to student mastery of modules including HTML, ASP, Visual Basic, and Access Database.  
 Notable Accomplishments:
 * Taught students to use Oracle Database, SQL Service, Cold Fusion, and JavaScript.
-* Named “Instructor of the Year” three years in a row; taught approximately 201 students.  
+* Named “Instructor of the Year” three years in a row; taught approximately 200 students.  
 7. Education  
 ABC UNIVERSITY, Philadelphia, Pa.
 Bachelor of Science (Major: Computer Science; Graduated Magna Cum Laude), May 2008  
